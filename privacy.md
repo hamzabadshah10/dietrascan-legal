@@ -50,4 +50,4 @@ We have implemented appropriate technical and organizational security measures d
 Depending on your location, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. You can review, change, or terminate your account at any time by logging into the App settings.
 
 ## 7. Contact Us
-If you have questions or comments about this notice, you may email us at [Insert Contact Email].
+If you have questions or comments about this notice, you may email us at support.dietrascan@gmail.com.
