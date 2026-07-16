@@ -94,7 +94,7 @@ These documents are hosted publicly using GitHub Pages:
 
 </div>
 
-Feel free to explore, fork, or reach out with any questions! If you found this repo helpful, please **⭐ star it** — it means a lot! 🙏
+Feel free to explore, fork, or reach out with any questions! If you found this repo helpful, please **⭐ star it** — it means a lot! 
 
 ---
 
