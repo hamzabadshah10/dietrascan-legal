@@ -28,10 +28,6 @@
 
 Mobile applications distributed on platforms like the Google Play Store and Apple App Store are required to provide publicly accessible legal documentation regarding user data privacy and terms of usage. **DietraScan Legal** provides a transparent, centrally hosted location for these required static pages, ensuring compliance with app store regulations and data protection laws.
 
-<div align="center">
-  <img width="80%" alt="Legal Documents Preview" src="https://via.placeholder.com/800x400.png?text=Legal+Documents+Preview" />
-</div>
-
 ---
 
 ## 🚀 Key Features
